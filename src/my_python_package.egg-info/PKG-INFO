@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: my_python_package
+Version: 0.0.1
+Summary: A Python package
+Author-email: Arvin Karpiah <arvin.karpiah@ucalgary.ca>
+Project-URL: Homepage, https://github.com/arvinkarpiah/goph420_w2024_lab02_AK
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License v3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+# goph420_w2024_lab02_AK
+Lab 02 for GOPH 420 (Winter 2024 session)
